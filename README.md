@@ -8,18 +8,6 @@
 
 **Gera um jogo de cobra a partir de um gráfico de contribuições de usuários do GitHub!** 
 
-_Linkedin: [Paulo Jorge](https://www.linkedin.com/in/paulo-jorge-xavier-dos-santos-43282b2b5/)_
-
-<picture> 
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pjxsantos/snake/output/github-contribution-grid-snake-dark.svg">
-
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pjxsantos/snake/output/github-contribution-grid-snake.svg">
-
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pjxsantos/snake/output/github-contribution-grid-snake.svg">
-
-</picture> 
-
 Extraia o gráfico de contribuição de um usuário do GitHub, Faça disso um jogo de cobra, gere um caminho de cobra onde as células são comidas de maneira ordenada. 
 
 Gere uma imagem GIF ou SVG! 
